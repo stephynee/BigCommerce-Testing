@@ -1,6 +1,6 @@
 {
   "name": "LifeStyle",
-  "version": "1.4.1",
+  "version": "1.4.2",
   "meta": {
     "price": 0,
     "documentation_url": "https://themes.psdcenter.com/theme-documentation/lifestyle-bigcommerce-theme-manual/",
@@ -406,8 +406,7 @@
           "fashion_jewelry"
         ]
       },
-      "images": {
-      },
+      "images": {},
       "settings": {
         "subcategory": true,
         "headernavigation": "navboth",
